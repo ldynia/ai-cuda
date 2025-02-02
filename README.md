@@ -1,4 +1,10 @@
-﻿Testing LLMs on CUDA
+﻿Project for testing various LLMs on CUDA vs. CPU
+
+## Requirements
+
+```bash
+sudo apt-get install nvtop
+```
 
 ## Install
 
@@ -7,6 +13,7 @@
 pyton3 -m venv .venv
 
 source .venv/bin/activate
+deactivate
 
 pip install -r requirements.txt
 ```
