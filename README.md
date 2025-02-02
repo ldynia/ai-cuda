@@ -27,4 +27,5 @@ python3 speach-recognition.py
 
 ## Links
 
-- [Getting started with Hugging Face](https://huggingface.co/docs/datasets/en/quickstart)
+- [Getting started with Transformers](https://huggingface.co/docs/transformers/quicktour)
+- [Getting started with Datasets](https://huggingface.co/docs/datasets/en/quickstart)
