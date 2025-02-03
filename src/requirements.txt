@@ -1,5 +1,8 @@
 ﻿datasets
 librosa
+pillow
+psutil
 soundfile
 torch
+torchvision
 transformers

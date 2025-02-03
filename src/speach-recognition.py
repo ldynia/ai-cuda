@@ -1,8 +1,8 @@
 ﻿import time
 import torch
 
-from datasets import Audio
-from datasets import load_dataset
+from src.dataset import Audio
+from src.dataset import load_dataset
 from transformers import pipeline
 
 
