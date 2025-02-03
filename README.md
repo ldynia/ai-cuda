@@ -21,6 +21,8 @@ pip install -r src/requirements.txt
 ## Run
 
 ```python
+python3 src/arrow.py
+python3 src/dataset.py
 python3 src/semantic-analysis.py
 python3 src/speach-recognition.py
 ```
